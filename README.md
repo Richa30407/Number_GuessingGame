@@ -23,3 +23,7 @@ This project is an interactive game where the user tries to guess a randomly gen
 - JavaScript
 
 ## Project Structure
+Number-GuessingGame 
+|- index.html
+ - style.css
+ - script.js
