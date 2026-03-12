@@ -1,5 +1,4 @@
-# Number_GuessingGame
-A simple web-based Number guessing game built using HTML, CSS, and JavaScript.
+
 # Number Guessing Game 
 
 A simple web-based Number Guessing Game built using HTML, CSS, and JavaScript.
