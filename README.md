@@ -37,5 +37,3 @@ This project was created as a beginner web development practice project to learn
 - Event handling
 - Basic web application structure
 
-## Author 
-Richa Patel
